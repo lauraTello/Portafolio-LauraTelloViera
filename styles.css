@@ -33,6 +33,9 @@
     border-bottom:4px solid #1d3557;
     color: #5a189a;    
 }
+.separador1{
+    color: #ffffff;
+}
 .text{
     color:#3c096c
 }
@@ -85,7 +88,8 @@ img:hover {
 }
 .formacion {
   width: 25%;
-  background-color: #cdb4db;
+  background-color: #cdb4db
+  ;
   padding: 20px;
   border-radius: 12px;
   
@@ -93,7 +97,7 @@ img:hover {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
 }
 .formacion h2{
-    color: #5a189a;
+    color: #ffffff;
 }
 .formacion li{
     color: #3c096c;
@@ -115,7 +119,7 @@ img:hover {
   }
 }
 .download-btn {
-  background-color: #1d3557;
+  background-color: #f28482;
   color: white;
   padding: 10px 18px;
   border: none;
@@ -128,7 +132,7 @@ img:hover {
 }
 
 .download-btn:hover {
-  background-color: #457b9d;
+  background-color: #cdb4db;
 }
 @media print {
   body * {
