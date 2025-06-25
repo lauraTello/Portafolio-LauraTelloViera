@@ -73,7 +73,7 @@ img:hover {
 .ever {
   width: 400px;  /* puedes ajustar este valor */
   height: auto;
-  border-radius: 8px;
+  border-radius: 8px; 
   display: block;
   margin: 10px auto 20px auto;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
