@@ -114,8 +114,11 @@ img:hover {
   }
 
   .sidebar,
+  .formacion,
   .content {
     width: 100%;
+    position:static !important;
+    margin: 0;
   }
 }
 .download-btn {
